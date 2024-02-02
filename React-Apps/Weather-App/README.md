@@ -1,8 +1,5 @@
-# React + Vite
+![alt text](https://github.com/parmenas-mukururi/React/blob/weather-app/React-Apps/Weather-App/Screenshot%202024-02-02%20121300.png)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I made a weather app that predicts weather for the current day and the next four days using React Js. I fetched an API using useEffect hook and displayed the temperature and the weather description for the day.
+Here is the link to the code.
+https://github.com/parmenas-mukururi/React/tree/weather-app/React-Apps/Weather-App
