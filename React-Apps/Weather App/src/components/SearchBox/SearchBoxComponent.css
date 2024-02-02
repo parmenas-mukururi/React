@@ -1,0 +1,7 @@
+.searchbox {
+    width: 400px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: rgb(160, 200, 234);
+    color: black;
+}
