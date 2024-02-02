@@ -1,0 +1,12 @@
+.today-weather {
+    display: flex;
+    gap: 3rem;
+    justify-content: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    align-items: center;
+    align-self: center;
+}
+#today-icon {
+    width: 20vw;
+}
