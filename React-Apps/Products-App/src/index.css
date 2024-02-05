@@ -1,0 +1,15 @@
+.products {
+  display: flex;
+  flex-direction: row;
+  flex-flow: wrap;
+  gap: 2rem;
+  margin-left: 1.5rem;
+}
+.product-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 40vw;
+
+}
